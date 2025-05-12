@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devpn/Desktop/Dev/DataSci/MLOps_VikashDas/6_MLFlow/MLOps-MLflow/mlruns/909139576517615100/8c87e973ee9842bda3fcd00fbb798074/artifacts
+end_time: 1747071679733
+entry_point_name: ''
+experiment_id: '909139576517615100'
+lifecycle_stage: active
+run_id: 8c87e973ee9842bda3fcd00fbb798074
+run_name: clean-goose-272
+run_uuid: 8c87e973ee9842bda3fcd00fbb798074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071679675
+status: 3
+tags: []
+user_id: Devpn

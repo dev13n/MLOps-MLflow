@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Devpn/Desktop/Dev/DataSci/MLOps_VikashDas/6_MLFlow/MLOps-MLflow/mlruns/909139576517615100
+creation_time: 1747071674961
+experiment_id: '909139576517615100'
+last_update_time: 1747071674961
+lifecycle_stage: active
+name: breast-cancer-rf-hp

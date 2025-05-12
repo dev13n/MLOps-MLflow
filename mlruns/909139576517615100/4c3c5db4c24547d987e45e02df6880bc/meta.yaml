@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devpn/Desktop/Dev/DataSci/MLOps_VikashDas/6_MLFlow/MLOps-MLflow/mlruns/909139576517615100/4c3c5db4c24547d987e45e02df6880bc/artifacts
+end_time: 1747071680268
+entry_point_name: ''
+experiment_id: '909139576517615100'
+lifecycle_stage: active
+run_id: 4c3c5db4c24547d987e45e02df6880bc
+run_name: thoughtful-duck-514
+run_uuid: 4c3c5db4c24547d987e45e02df6880bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071680207
+status: 3
+tags: []
+user_id: Devpn

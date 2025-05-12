@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devpn/Desktop/Dev/DataSci/MLOps_VikashDas/6_MLFlow/MLOps-MLflow/mlruns/909139576517615100/b116a82be57f407c9ff8aa07c3f585b4/artifacts
+end_time: 1747071680402
+entry_point_name: ''
+experiment_id: '909139576517615100'
+lifecycle_stage: active
+run_id: b116a82be57f407c9ff8aa07c3f585b4
+run_name: trusting-hare-952
+run_uuid: b116a82be57f407c9ff8aa07c3f585b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071680339
+status: 3
+tags: []
+user_id: Devpn
