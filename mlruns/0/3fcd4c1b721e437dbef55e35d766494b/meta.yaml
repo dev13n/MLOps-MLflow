@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3fcd4c1b721e437dbef55e35d766494b/artifacts
+end_time: 1747042479214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fcd4c1b721e437dbef55e35d766494b
+run_name: nebulous-grouse-443
+run_uuid: 3fcd4c1b721e437dbef55e35d766494b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747042479016
+status: 3
+tags: []
+user_id: Devpn

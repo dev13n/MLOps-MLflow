@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7340b348b9e542a18f4548eba5237a05/artifacts
+end_time: 1747045775314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7340b348b9e542a18f4548eba5237a05
+run_name: placid-fly-750
+run_uuid: 7340b348b9e542a18f4548eba5237a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747045774800
+status: 4
+tags: []
+user_id: Devpn

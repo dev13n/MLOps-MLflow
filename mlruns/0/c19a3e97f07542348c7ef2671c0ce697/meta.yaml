@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c19a3e97f07542348c7ef2671c0ce697/artifacts
+deleted_time: 1747044105731
+end_time: 1747042483504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c19a3e97f07542348c7ef2671c0ce697
+run_name: enthused-cod-315
+run_uuid: c19a3e97f07542348c7ef2671c0ce697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747042483383
+status: 3
+tags: []
+user_id: Devpn

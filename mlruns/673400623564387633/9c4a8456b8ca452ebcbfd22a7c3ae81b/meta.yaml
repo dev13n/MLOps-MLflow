@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673400623564387633/9c4a8456b8ca452ebcbfd22a7c3ae81b/artifacts
+end_time: 1747055634014
+entry_point_name: ''
+experiment_id: '673400623564387633'
+lifecycle_stage: active
+run_id: 9c4a8456b8ca452ebcbfd22a7c3ae81b
+run_name: thundering-doe-817
+run_uuid: 9c4a8456b8ca452ebcbfd22a7c3ae81b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055628387
+status: 3
+tags: []
+user_id: Devpn

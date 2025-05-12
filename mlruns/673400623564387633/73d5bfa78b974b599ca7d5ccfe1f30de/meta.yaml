@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673400623564387633/73d5bfa78b974b599ca7d5ccfe1f30de/artifacts
+end_time: 1747054391121
+entry_point_name: ''
+experiment_id: '673400623564387633'
+lifecycle_stage: active
+run_id: 73d5bfa78b974b599ca7d5ccfe1f30de
+run_name: incongruous-ape-156
+run_uuid: 73d5bfa78b974b599ca7d5ccfe1f30de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054390637
+status: 3
+tags: []
+user_id: Devpn

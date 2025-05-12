@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fb5645ebae6442d68325fb304c672b8d/artifacts
+end_time: 1747054125712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb5645ebae6442d68325fb304c672b8d
+run_name: glamorous-sow-198
+run_uuid: fb5645ebae6442d68325fb304c672b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054125125
+status: 3
+tags: []
+user_id: Devpn
