@@ -1,2 +1,2 @@
 # MLOps-MLflow
-This repository uses the MLflow tool to put the concept of data versioning into practice. Since I am new to MLflow and am now learning about MLOps, I made this in order to document my learnings.
+This repository demonstrates how MLflow can be used for data and model versioning within an end-to-end MLOps workflow. Created as part of my learning journey, it highlights MLflow's capabilities in experiment tracking, artifact management, and ensuring reproducibility in machine learning projects.
